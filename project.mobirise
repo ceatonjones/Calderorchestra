@@ -71,7 +71,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "uniqCompNum": 4,
-    "versionPublish": "5.5.0"
+    "versionPublish": "5.5.0",
+    "publishChangesOnly": true
   },
   "pages": {
     "Contact.html": {
