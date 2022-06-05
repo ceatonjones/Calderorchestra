@@ -72,7 +72,7 @@
     "siteUrl": false,
     "uniqCompNum": 4,
     "versionPublish": "5.5.0",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "Contact.html": {
